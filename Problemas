@@ -1,0 +1,5 @@
+Este arquivo ressalta os problemas que considero como sendo os mais importantes a serem resolvidos.
+Qualquer forma de apoio para melhorar os códigos será bem-vindo.
+
+> Jogo_da_Velha --> Solução para resolver grande cadeia de if e else if.
+> Freeway --> Como adicionar mais carros por rua sem criar um código separado para cada carro (pois deixaria o código muito longo e pouco eficiente).
