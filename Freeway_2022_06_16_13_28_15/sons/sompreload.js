@@ -1,0 +1,1 @@
+let somTrilha, somColisao, somPontos;
