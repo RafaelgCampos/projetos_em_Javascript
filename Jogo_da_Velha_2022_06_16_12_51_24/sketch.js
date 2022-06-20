@@ -19,7 +19,8 @@ function draw() {
 }
 
 function mouseClicked(){
-  mouX();
+  if (fim == 0)
+    mouX();
 }
 
 function mapa(){
